@@ -19,8 +19,10 @@ Open up your text editor and create a TypeScript file (for example, fisrtTypescr
 Write some JavaScript or TypeScript( we will write Typescript):
 
 
-```json let fruit : string = 'mango';  
-   let id : number = 5;```
+```json
+   let fruit : string = 'mango';  
+   let id : number = 5;
+```
 
 
 We can now compile this down into JavaScript with the following command:
