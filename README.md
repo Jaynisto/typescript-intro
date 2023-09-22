@@ -23,6 +23,8 @@ Write some JavaScript or TypeScript( we will write Typescript):
 
    let fruit : string = 'mango';  
    let id : number = 5;
+
+   console.log(id+fruit)
    
 ```
 
@@ -36,6 +38,8 @@ TSC will compile the code into JavaScript and output it in a file called fisrtTy
 ```code
    var fruit = 'mango';  
    var id = 5;
+
+   console.log(id + fruit)
    
 ```
 
@@ -43,5 +47,9 @@ TSC will compile the code into JavaScript and output it in a file called fisrtTy
 Then you can run you Javascript file using node
 
 `node firstTypescript.js`
+
+You should get the following output:
+
+`5mango`
 
 
