@@ -19,12 +19,12 @@ Open up your text editor and create a TypeScript file (for example, fisrtTypescr
 Write some JavaScript or TypeScript( we will write Typescript):
 
 
-`code
+```code
 
    let fruit : string = 'mango';  
    let id : number = 5;
    
-`
+```
 
 
 We can now compile this down into JavaScript with the following command:
@@ -33,11 +33,11 @@ We can now compile this down into JavaScript with the following command:
 
 TSC will compile the code into JavaScript and output it in a file called fisrtTypescript.js:
 
-`code
+```code
    var fruit = 'mango';  
    var id = 5;
    
-`
+```
 
 
 Then you can run you Javascript file using node
