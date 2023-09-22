@@ -19,7 +19,7 @@ Open up your text editor and create a TypeScript file (for example, fisrtTypescr
 Write some JavaScript or TypeScript( we will write Typescript):
 
 
-```let fruit : string = 'mango';  
+```json let fruit : string = 'mango';  
    let id : number = 5;```
 
 
